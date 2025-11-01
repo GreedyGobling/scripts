@@ -1,2 +1,2 @@
 # scripts
-repository for all my custom scripts i make
+Branch for all my custom scripts i made for windows 11.
